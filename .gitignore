@@ -14,3 +14,7 @@ hs_err_pid*
 /CriandoEJB1-ejb/nbproject/private/
 /CriandoEJB1-war/build/
 /CriandoEJB1-war/nbproject/private/
+/dist/
+/build/
+/CriandoEJB1-war/dist/
+/CriandoEJB1-ejb/dist/
